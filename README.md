@@ -1,0 +1,2 @@
+# IdolyPride-mcworld
+星見プロを再現したMinecraftワールドデータの配布
