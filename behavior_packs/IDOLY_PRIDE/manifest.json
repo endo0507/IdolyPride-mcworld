@@ -1,0 +1,22 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "アイプラの台詞や説明を表示\n(Created by @Alterna_Endo)",
+        "name": "IDOLY PRIDE",
+        "uuid": "f86c8106-7a14-4e60-e6d0-a1d059771de0",
+        "version": [0, 1, 1],
+        "min_engine_version": [1, 21, 62]
+    },
+    "modules": [
+        {
+            "description": "IDOLY PRIDE",
+            "type": "data",
+            "uuid": "a1d05977-1de0-e6d0-7a14-4e60f86c8106",
+            "version": [0, 1, 1]
+        }
+    ],
+    "metadata":{
+        "authors":[ "Alterna_Endo" ],
+        "url":"https://x.com/Alterna_Endo"
+    }
+}
